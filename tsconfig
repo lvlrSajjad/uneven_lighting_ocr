@@ -1,0 +1,1 @@
+tesseract ./p5/rotated_stitched_image_thresholded_custom.png outputfile --oem 1 --psm 6 -l eng -c tessedit_char_blacklist="\°\{\}\"»«\$]¢abcdefghijklmnopqrstuvwyz§|\!@"
